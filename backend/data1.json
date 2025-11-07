@@ -1,0 +1,317 @@
+[
+  {
+    "location": "Labs",
+    "timestamp": 53,
+    "wifi_count": 3,
+    "ble_count": 1,
+    "total_count": 4
+  },
+  {
+    "location": "Labs",
+    "timestamp": 104,
+    "wifi_count": 3,
+    "ble_count": 1,
+    "total_count": 4
+  },
+  {
+    "location": "Labs",
+    "timestamp": 163,
+    "wifi_count": 4,
+    "ble_count": 2,
+    "total_count": 6
+  },
+  {
+    "location": "Labs",
+    "timestamp": 125,
+    "wifi_count": 3,
+    "ble_count": 1,
+    "total_count": 4
+  },
+  {
+    "location": "Labs",
+    "timestamp": 183,
+    "wifi_count": 3,
+    "ble_count": 2,
+    "total_count": 5
+  },
+  {
+    "location": "Labs",
+    "timestamp": 18,
+    "wifi_count": 3,
+    "ble_count": 0,
+    "total_count": 3
+  },
+  {
+    "location": "Labs",
+    "timestamp": 38,
+    "wifi_count": 3,
+    "ble_count": 0,
+    "total_count": 3
+  },
+  {
+    "location": "Labs",
+    "timestamp": 55,
+    "wifi_count": 3,
+    "ble_count": 0,
+    "total_count": 3
+  },
+  {
+    "location": "Labs",
+    "timestamp": 70,
+    "wifi_count": 3,
+    "ble_count": 1,
+    "total_count": 4
+  },
+  {
+    "location": "Labs",
+    "timestamp": 85,
+    "wifi_count": 3,
+    "ble_count": 1,
+    "total_count": 4
+  },
+  {
+    "location": "Labs",
+    "timestamp": 100,
+    "wifi_count": 3,
+    "ble_count": 0,
+    "total_count": 3
+  },
+  {
+    "location": "Labs",
+    "timestamp": 117,
+    "wifi_count": 4,
+    "ble_count": 1,
+    "total_count": 5
+  },
+  {
+    "location": "Labs",
+    "timestamp": 133,
+    "wifi_count": 4,
+    "ble_count": 1,
+    "total_count": 5
+  },
+  {
+    "location": "Labs",
+    "timestamp": 148,
+    "wifi_count": 4,
+    "ble_count": 1,
+    "total_count": 5
+  },
+  {
+    "location": "Labs",
+    "timestamp": 16,
+    "wifi_count": 4,
+    "ble_count": 1,
+    "total_count": 5
+  },
+  {
+    "location": "Labs",
+    "timestamp": 32,
+    "wifi_count": 4,
+    "ble_count": 1,
+    "total_count": 5
+  },
+  {
+    "location": "Labs",
+    "timestamp": 51,
+    "wifi_count": 3,
+    "ble_count": 1,
+    "total_count": 4
+  },
+  {
+    "location": "Labs",
+    "timestamp": 66,
+    "wifi_count": 3,
+    "ble_count": 1,
+    "total_count": 4
+  },
+  {
+    "location": "Labs",
+    "timestamp": 83,
+    "wifi_count": 4,
+    "ble_count": 1,
+    "total_count": 5
+  },
+  {
+    "location": "Labs",
+    "timestamp": 117,
+    "wifi_count": 4,
+    "ble_count": 0,
+    "total_count": 4
+  },
+  {
+    "location": "Library",
+    "timestamp": 15,
+    "wifi_count": 4,
+    "ble_count": 1,
+    "total_count": 5
+  },
+  {
+    "location": "Labs",
+    "timestamp": 134,
+    "wifi_count": 3,
+    "ble_count": 1,
+    "total_count": 4
+  },
+  {
+    "location": "Library",
+    "timestamp": 30,
+    "wifi_count": 3,
+    "ble_count": 2,
+    "total_count": 5
+  },
+  {
+    "location": "Labs",
+    "timestamp": 150,
+    "wifi_count": 3,
+    "ble_count": 0,
+    "total_count": 3
+  },
+  {
+    "location": "Library",
+    "timestamp": 46,
+    "wifi_count": 4,
+    "ble_count": 2,
+    "total_count": 6
+  },
+  {
+    "location": "Labs",
+    "timestamp": 166,
+    "wifi_count": 3,
+    "ble_count": 0,
+    "total_count": 3
+  },
+  {
+    "location": "Library",
+    "timestamp": 65,
+    "wifi_count": 3,
+    "ble_count": 1,
+    "total_count": 4
+  },
+  {
+    "location": "Library",
+    "timestamp": 83,
+    "wifi_count": 4,
+    "ble_count": 2,
+    "total_count": 6
+  },
+  {
+    "location": "Labs",
+    "timestamp": 200,
+    "wifi_count": 3,
+    "ble_count": 0,
+    "total_count": 3
+  },
+  {
+    "location": "Library",
+    "timestamp": 98,
+    "wifi_count": 3,
+    "ble_count": 2,
+    "total_count": 5
+  },
+  {
+    "location": "Labs",
+    "timestamp": 216,
+    "wifi_count": 3,
+    "ble_count": 0,
+    "total_count": 3
+  },
+  {
+    "location": "Library",
+    "timestamp": 116,
+    "wifi_count": 4,
+    "ble_count": 2,
+    "total_count": 6
+  },
+  {
+    "location": "Labs",
+    "timestamp": 235,
+    "wifi_count": 3,
+    "ble_count": 0,
+    "total_count": 3
+  },
+  {
+    "location": "Library",
+    "timestamp": 132,
+    "wifi_count": 4,
+    "ble_count": 1,
+    "total_count": 5
+  },
+  {
+    "location": "Library",
+    "timestamp": 147,
+    "wifi_count": 4,
+    "ble_count": 2,
+    "total_count": 6
+  },
+  {
+    "location": "Labs",
+    "timestamp": 268,
+    "wifi_count": 3,
+    "ble_count": 0,
+    "total_count": 3
+  },
+  {
+    "location": "Library",
+    "timestamp": 162,
+    "wifi_count": 4,
+    "ble_count": 2,
+    "total_count": 6
+  },
+  {
+    "location": "Library",
+    "timestamp": 178,
+    "wifi_count": 4,
+    "ble_count": 2,
+    "total_count": 6
+  },
+  {
+    "location": "Labs",
+    "timestamp": 288,
+    "wifi_count": 3,
+    "ble_count": 0,
+    "total_count": 3
+  },
+  {
+    "location": "Labs",
+    "timestamp": 305,
+    "wifi_count": 3,
+    "ble_count": 0,
+    "total_count": 3
+  },
+  {
+    "location": "Library",
+    "timestamp": 193,
+    "wifi_count": 3,
+    "ble_count": 2,
+    "total_count": 5
+  },
+  {
+    "location": "Library",
+    "timestamp": 208,
+    "wifi_count": 4,
+    "ble_count": 2,
+    "total_count": 6
+  },
+  {
+    "location": "Labs",
+    "timestamp": 320,
+    "wifi_count": 3,
+    "ble_count": 0,
+    "total_count": 3
+  },
+  {
+    "location": "Library",
+    "timestamp": 261,
+    "wifi_count": 4,
+    "ble_count": 2,
+    "total_count": 6
+  },
+  {
+    "location": "Labs",
+    "timestamp": 373,
+    "wifi_count": 3,
+    "ble_count": 0,
+    "total_count": 3
+  }
+]
